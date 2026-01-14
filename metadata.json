@@ -1,0 +1,5 @@
+{
+  "name": "SolVoid - Retro Solana Asset Purger",
+  "description": "A high-fidelity retro-themed dashboard for Solana users to reclaim SOL by purging unwanted assets and closing empty accounts. Features a pixel-art aesthetic with a synthwave grid background.",
+  "requestFramePermissions": []
+}
